@@ -11,6 +11,9 @@ namespace ConsoleApiTool
         {
             //本工程用来测试各种网络接口的请求及相应信息
             //支持cookies请求
+           
+            Tool tl = new Tool();
+            tl.Run();
         }
     }
 }
